@@ -3,7 +3,11 @@
 ## Git at the ONS
 
 [Git](https://git-scm.com/) is a version-control system for tracking changes in a collection of files, called a repository. It works best for text-based files like code but can be used to version-control any file type. It provides additional features that support multiple people working on the same files within a project, whilst creating an audit trail for all changes to those files. This means that you don’t need to manually keep copies of file versions, for example by saving them with a new name: “some_code_v3_new_final.py”.
- 
+
+<p align="center">
+  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="Git Logo" width="20%" />
+</p>
+
 This form of version control is particularly useful when carrying out analysis using coding tools, such as Python or R. You're able to save collections of related changes (called commits), resolve conflicts between changes from multiple users and effortlessly roll back to earlier versions of the project or individual files. This is essential for reproducing outputs from previous versions of your analyses. You can find an [introduction to Git course](https://learninghub.ons.gov.uk/course/view.php?id=532) and [screencast](https://learninghub.ons.gov.uk/enrol/index.php?id=782) on the Learning Hub, or more detailed usage in the online [Pro Git book](https://git-scm.com/book/ru/v2).
  
 Last month a new version of Git (v2.27) was rolled out to users across the ONS. 
@@ -43,6 +47,10 @@ Your work is covered by [Crown copyright](https://www.nationalarchives.gov.uk/in
 You should discuss the prospect of open sourcing with the head(s) of your team before getting started. If you have concerns or questions surrounding the topic, please look to online resources first but do feel free to get in touch for advice.
  
 To get started, you'll need to register for a personal [GitHub](https://github.com/) account. You can use a personal email address for this, as your use of the platform might extend beyond your work at the ONS. However, you should still [add your ONS email address to the account](https://github.com/settings/emails) once it's created, to ensure that GitHub knows which account to assign your work to when working from an office machine.
+ 
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="Git Logo" width="20%" />
+</p>
  
 You can now follow these simple steps to [create](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github) and [clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-using-the-command-line) a repository from GitHub. If you have any issues with Git or would like to modify your Git configuration further, I've put together a [guide on troubleshooting ONS Git configuration](https://github.com/best-practice-and-impact/ons-git-config) that you might find useful. Our team also have example projects for [Python](https://github.com/best-practice-and-impact/example-package-python) and [R](https://github.com/best-practice-and-impact/example-package-r) that you might find as a useful starting point.
  
