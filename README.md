@@ -49,7 +49,7 @@ You should discuss the prospect of open sourcing with the head(s) of your team b
 To get started, you'll need to register for a personal [GitHub](https://github.com/) account. You can use a personal email address for this, as your use of the platform might extend beyond your work at the ONS. However, you should still [add your ONS email address to the account](https://github.com/settings/emails) once it's created, to ensure that GitHub knows which account to assign your work to when working from an office machine.
  
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="Git Logo" width="20%" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="GitHub Octocat" width="20%" />
 </p>
  
 You can now follow these simple steps to [create](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github) and [clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-using-the-command-line) a repository from GitHub. If you have any issues with Git or would like to modify your Git configuration further, I've put together a [guide on troubleshooting ONS Git configuration](https://github.com/best-practice-and-impact/ons-git-config) that you might find useful. Our team also have example projects for [Python](https://github.com/best-practice-and-impact/example-package-python) and [R](https://github.com/best-practice-and-impact/example-package-r) that you might find as a useful starting point.
