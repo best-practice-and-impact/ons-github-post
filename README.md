@@ -8,7 +8,7 @@
   <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="Git Logo" width="20%" />
 </p>
 
-This form of version control is particularly useful when carrying out analysis using coding tools, such as Python or R. You're able to save collections of related changes (called commits), resolve conflicts between changes from multiple users and effortlessly roll back to earlier versions of the project or individual files. This is essential for reproducing outputs from previous versions of your analyses. You can find an [introduction to Git course](https://learninghub.ons.gov.uk/course/view.php?id=532) and [screencast](https://learninghub.ons.gov.uk/enrol/index.php?id=782) on the Learning Hub, or more detailed usage in the online [Pro Git book](https://git-scm.com/book/ru/v2).
+This form of version control is particularly useful when carrying out analysis using coding tools, such as Python or R. You're able to save collections of related changes (called commits), resolve conflicts between changes from multiple users and effortlessly roll back to earlier versions of the project or individual files. This is essential for reproducing outputs from previous versions of your analyses. You can find an [introduction to Git course](https://learninghub.ons.gov.uk/course/view.php?id=532) and [screencast](https://learninghub.ons.gov.uk/enrol/index.php?id=782) on the Learning Hub, or more detailed usage in the online [Pro Git book](https://git-scm.com/book/en/v2).
  
 Last month a new version of Git (v2.27) was rolled out to users across the ONS. 
  
